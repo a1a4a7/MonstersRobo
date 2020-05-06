@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/MonstersRobo/static/css/main.444a24e3.chunk.css",
+    "main.js": "/MonstersRobo/static/js/main.d3b2d968.chunk.js",
+    "main.js.map": "/MonstersRobo/static/js/main.d3b2d968.chunk.js.map",
+    "runtime-main.js": "/MonstersRobo/static/js/runtime-main.ca021471.js",
+    "runtime-main.js.map": "/MonstersRobo/static/js/runtime-main.ca021471.js.map",
+    "static/js/2.9c42f95f.chunk.js": "/MonstersRobo/static/js/2.9c42f95f.chunk.js",
+    "static/js/2.9c42f95f.chunk.js.map": "/MonstersRobo/static/js/2.9c42f95f.chunk.js.map",
+    "index.html": "/MonstersRobo/index.html",
+    "precache-manifest.19a572181a9ee2b940e4a1aa437a1852.js": "/MonstersRobo/precache-manifest.19a572181a9ee2b940e4a1aa437a1852.js",
+    "service-worker.js": "/MonstersRobo/service-worker.js",
+    "static/css/main.444a24e3.chunk.css.map": "/MonstersRobo/static/css/main.444a24e3.chunk.css.map",
+    "static/js/2.9c42f95f.chunk.js.LICENSE.txt": "/MonstersRobo/static/js/2.9c42f95f.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/MonstersRobo/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ca021471.js",
+    "static/js/2.9c42f95f.chunk.js",
+    "static/css/main.444a24e3.chunk.css",
+    "static/js/main.d3b2d968.chunk.js"
+  ]
+}
